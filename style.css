@@ -56,6 +56,9 @@ h5{
 .display-inline{
     display: inline;
 }
+.width100{
+    width: 100%;
+}
 .nav{
     height: 50px;
     width: 100%;
